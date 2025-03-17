@@ -2,6 +2,11 @@
 ## DL_Assignment_1.ipynb:
 This document serves as a guide for the code implementing a Neural Network library with functionalities for training a neural network on image classification tasks.
 
+
+WandB link :  https://wandb.ai/cs23m059-iit-madras/DL%20assignment%201/reports/DA6401-Assignment-1--VmlldzoxMTgzMTg5OA?accessToken=tjdx8bi08k5gipp0lq4favrcrcwr7026h7tl6w4v8e0w3lrchwykz8ed9io62gnj
+Github link : https://github.com/saibaddala/DL_Assignment_1
+
+
 ## Key Components:
 
 ### NeuralNetwork Class:
